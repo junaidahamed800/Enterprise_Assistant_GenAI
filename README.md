@@ -284,8 +284,8 @@ Skills:
 
 ## InShort
 
-git clone <repo>
-cd <repo>
+git clone https url
+cd Folder Name
 python -m venv venv
 .\venv\Scripts\activate
 pip install -r requirements.txt
