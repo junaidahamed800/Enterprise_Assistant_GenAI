@@ -272,6 +272,7 @@ Junaid Shaik
 Trainee Software Engineer | Generative AI Enthusiast
 
 Skills:
+
 - Python
 - RAG
 - LangChain
@@ -280,3 +281,11 @@ Skills:
 - Prompt Engineering
 - Java
 - SQL
+
+## InShort
+
+git clone <repo>
+cd <repo>
+python -m venv venv
+.\venv\Scripts\activate
+pip install -r requirements.txt
