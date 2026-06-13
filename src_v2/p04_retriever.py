@@ -18,6 +18,4 @@ def retrieve_context(query):
         k=2
     )
 
-    return "\n".join(
-        [doc.page_content for doc in results]
-    )
+    return results
