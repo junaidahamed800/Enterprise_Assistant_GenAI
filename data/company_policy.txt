@@ -1,9 +1,353 @@
-Prolifics provides technology consulting services.
+=================================================
+COMPANY EMPLOYEE HANDBOOK
+=========================
 
-Employees are allowed to work remotely for up to 3 days per week.
+## SECTION 1: HR POLICIES
 
-Annual leave entitlement is 24 days.
+Employees are expected to maintain professional conduct at all times.
 
-Employees must complete cybersecurity awareness training every year.
+Employees must respect diversity and inclusion principles.
 
-Managers are responsible for approving leave requests.
+Harassment of any kind is strictly prohibited.
+
+Discrimination based on race, gender, religion, age, or disability is prohibited.
+
+Employees must complete onboarding training within 30 days.
+
+All employees must maintain accurate personal information in HR systems.
+
+Managers are responsible for maintaining a respectful workplace.
+
+Employees must comply with company policies and procedures.
+
+Workplace violence is strictly prohibited.
+
+Employees are encouraged to report policy violations.
+
+Retaliation against employees who report concerns is prohibited.
+
+Employees should maintain professional communication.
+
+Dress code requirements must be followed during office visits.
+
+Employees must attend mandatory HR sessions.
+
+Conflicts of interest must be disclosed to management.
+
+Employees should cooperate during investigations.
+
+Company property must be used responsibly.
+
+Employees are expected to act ethically.
+
+Unauthorized disclosure of confidential information is prohibited.
+
+HR records are maintained securely.
+
+## SECTION 2: LEAVE POLICIES
+
+Employees are entitled to 20 annual leave days per year.
+
+Annual leave requests should be submitted in advance.
+
+Managers must approve planned leave requests.
+
+Sick leave requests should be submitted through the HR portal.
+
+Medical certificates may be required for absences longer than three days.
+
+Unused leave may be carried forward according to company policy.
+
+Emergency leave may be granted under special circumstances.
+
+Maternity leave is available as per applicable regulations.
+
+Paternity leave is available as per company guidelines.
+
+Bereavement leave may be granted following the loss of a family member.
+
+Employees should notify managers promptly regarding absences.
+
+Extended leave requires additional approval.
+
+Leave balances can be viewed in the HR portal.
+
+Public holidays are published annually.
+
+Employees are encouraged to plan leave responsibly.
+
+## SECTION 3: REMOTE WORK POLICY
+
+Employees may work remotely up to three days per week.
+
+Remote employees must be available during core business hours.
+
+Company-issued devices should be used for official work.
+
+Employees should maintain a reliable internet connection.
+
+Remote work arrangements require manager approval.
+
+Employees must attend required virtual meetings.
+
+Work hours must be accurately recorded.
+
+Company data must be protected while working remotely.
+
+Employees should maintain a productive work environment.
+
+Remote workers must comply with all security policies.
+
+Managers may review remote work effectiveness periodically.
+
+Employees are responsible for safeguarding company equipment.
+
+Video conferencing etiquette should be followed.
+
+Remote access systems must be used appropriately.
+
+Employees should promptly report technical issues.
+
+## SECTION 4: SECURITY POLICY
+
+Passwords must contain at least twelve characters.
+
+Passwords should not be reused across systems.
+
+Multi-factor authentication is mandatory.
+
+Confidential information must not be shared externally.
+
+Employees must not share passwords with others.
+
+Workstations should be locked when unattended.
+
+Security incidents must be reported immediately.
+
+USB devices require authorization before use.
+
+Company laptops must have antivirus software installed.
+
+Email attachments from unknown sources should not be opened.
+
+Employees should recognize phishing attempts.
+
+Confidential documents should be stored securely.
+
+Only authorized personnel may access restricted systems.
+
+Security awareness training is mandatory annually.
+
+Employees must follow data protection requirements.
+
+Customer data must be handled securely.
+
+System access is granted based on business need.
+
+Physical access badges must be displayed when required.
+
+Security audits may be conducted periodically.
+
+Unauthorized access attempts must be reported.
+
+## SECTION 5: IT POLICY
+
+Only authorized software may be installed.
+
+Use of pirated software is prohibited.
+
+Employees must comply with software licensing requirements.
+
+Personal devices require approval before accessing company systems.
+
+Internet usage should support business activities.
+
+Company email accounts should be used professionally.
+
+Employees must not disable security tools.
+
+System updates should be installed promptly.
+
+IT support requests should be submitted through the help desk.
+
+Employees should back up important files appropriately.
+
+Unauthorized hardware installations are prohibited.
+
+Cloud storage services must be approved before use.
+
+IT assets remain company property.
+
+Software requests require management approval.
+
+Employees should report technical issues promptly.
+
+## SECTION 6: TRAVEL POLICY
+
+Business travel requires manager approval.
+
+Flight bookings should be made through approved vendors.
+
+Hotel expenses must comply with company limits.
+
+Employees should choose cost-effective travel options.
+
+Travel expenses require supporting receipts.
+
+Expense reports should be submitted promptly.
+
+International travel may require additional approvals.
+
+Employees must comply with local laws while traveling.
+
+Travel advances may be available when approved.
+
+Unused travel funds should be returned promptly.
+
+Business purposes must be documented for travel requests.
+
+Travel insurance may be provided for approved trips.
+
+Managers should review travel expenses.
+
+Personal expenses are not reimbursable.
+
+Travel policies apply to all employees.
+
+## SECTION 7: EMPLOYEE BENEFITS
+
+Employees are eligible for health insurance benefits.
+
+Employees may participate in retirement savings plans.
+
+Annual wellness allowances are provided.
+
+Life insurance coverage may be available.
+
+Employees may access employee assistance programs.
+
+Benefit eligibility depends on employment status.
+
+Benefits information is available through HR.
+
+Employees may update benefit selections during enrollment periods.
+
+Vision coverage may be available.
+
+Dental coverage may be available.
+
+Wellness initiatives encourage healthy lifestyles.
+
+Benefit programs may change periodically.
+
+Employees should review benefit documentation carefully.
+
+Dependents may be eligible for certain benefits.
+
+Questions regarding benefits should be directed to HR.
+
+## SECTION 8: PERFORMANCE REVIEW
+
+Performance reviews occur twice annually.
+
+Employees are evaluated based on goals and competencies.
+
+Managers provide written feedback.
+
+Performance discussions should be constructive.
+
+Employees should participate actively in review meetings.
+
+Development goals should be documented.
+
+Managers should provide regular coaching.
+
+Performance ratings follow company guidelines.
+
+Employees may discuss concerns with HR.
+
+Recognition may be provided for outstanding performance.
+
+Improvement plans may be developed when necessary.
+
+Review records are maintained confidentially.
+
+Promotion decisions consider performance results.
+
+Training needs may be identified during reviews.
+
+Employees should track progress toward goals.
+
+## SECTION 9: TRAINING POLICY
+
+Employees must complete mandatory compliance training.
+
+Professional certifications may be reimbursed.
+
+Training records are maintained by HR.
+
+Managers should support employee development.
+
+Employees are encouraged to pursue learning opportunities.
+
+Required training deadlines must be met.
+
+Training effectiveness may be evaluated.
+
+Leadership development programs may be available.
+
+Technical training may be offered periodically.
+
+Employees should apply acquired knowledge in their work.
+
+Certification reimbursement requires approval.
+
+Learning resources may be provided online.
+
+Attendance may be tracked for training events.
+
+Employees should complete assigned courses.
+
+Continuous learning is encouraged across the organization.
+
+## SECTION 10: PROJECT MANAGEMENT GUIDELINES
+
+Projects must have documented requirements.
+
+Sprint planning meetings should occur every two weeks.
+
+Risks should be tracked throughout the project lifecycle.
+
+Change requests must be documented.
+
+Project objectives should be clearly defined.
+
+Stakeholders should be identified early.
+
+Project timelines should be realistic.
+
+Status updates should be communicated regularly.
+
+Project managers should monitor risks.
+
+Issues should be escalated promptly.
+
+Team members should collaborate effectively.
+
+Requirements changes require approval.
+
+Project documentation should be maintained.
+
+Lessons learned should be documented.
+
+Quality assurance activities should be planned.
+
+Testing should be completed before deployment.
+
+Project milestones should be tracked.
+
+Project budgets should be monitored.
+
+Project closure activities should be completed.
+
+Continuous improvement should be encouraged.

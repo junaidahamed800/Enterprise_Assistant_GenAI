@@ -1,7 +1,7 @@
 from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
 
-
+print("Creating Embeddings for the chunks & Storing in Chroma DB....")
 def create_vectorstore(chunks):
 
     embedding_model = HuggingFaceEmbeddings(
@@ -13,5 +13,4 @@ def create_vectorstore(chunks):
         embedding=embedding_model,
         persist_directory="vectorstore"
     )
-
     return vector_store
