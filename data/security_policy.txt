@@ -1,0 +1,205 @@
+INFORMATION SECURITY POLICY DOCUMENT
+Organization: Apex Solutions Pvt. Ltd.
+Effective Date: January 1, 2025
+Version: 4.1
+Classification: Internal Use Only
+
+SECTION 1: PURPOSE AND SCOPE
+
+This Information Security Policy defines the standards, guidelines, and responsibilities required to protect the confidentiality, integrity, and availability of the organization's information assets. It applies to all employees, contractors, vendors, and third parties who access, process, or store company data. Compliance with this policy is mandatory and non-negotiable.
+
+The policy is designed to mitigate risks arising from unauthorized access, data breaches, cyberattacks, and internal misuse of information systems. It aligns with internationally recognized security frameworks including ISO 27001, NIST Cybersecurity Framework, and applicable data protection regulations. The policy establishes a culture of security awareness and accountability across the organization.
+
+All information assets — including hardware, software, data, networks, and documentation — are covered under the scope of this policy. Physical assets located at company premises as well as virtual assets hosted in cloud environments are equally subject to these controls. The policy must be reviewed and re-acknowledged by every employee annually.
+
+The Chief Information Security Officer (CISO) is the policy owner and is responsible for maintaining, updating, and enforcing this document. Department heads are accountable for ensuring that their teams comply with security requirements. Any violations must be reported to the security team immediately using the designated incident reporting channel.
+
+SECTION 2: ACCESS CONTROL
+
+Access to company information systems is granted on the principle of least privilege, meaning employees receive only the minimum level of access required to perform their job functions. Access rights are reviewed every six months and are adjusted or revoked based on changes in job roles. Unauthorized access attempts are logged and investigated.
+
+User account creation, modification, and deactivation are governed by a formal access management process. When an employee joins, transfers, or leaves the organization, IT is notified by HR within 24 hours to provision or deprovision access accordingly. Orphaned accounts — accounts belonging to former employees — represent a significant security risk and are identified and removed through monthly audits.
+
+Multi-Factor Authentication (MFA) is mandatory for all employees accessing company applications, especially those involving sensitive data or remote access. Employees must not share their login credentials with anyone, including teammates or managers. Password sharing is a violation of this policy and may result in disciplinary action.
+
+Privileged access, such as administrator rights to servers or databases, is granted only to authorized IT personnel. All privileged access sessions are logged and monitored through a Privileged Access Management (PAM) solution. Any use of privileged access outside of authorized change windows must be approved in writing by the CISO.
+
+Third-party vendors and contractors who require access to company systems must sign a Non-Disclosure Agreement (NDA) and a data access agreement before access is provisioned. Vendor access is time-bound and scoped strictly to the systems and data required for their engagement. Vendor access is reviewed monthly and revoked immediately upon contract completion.
+
+SECTION 3: PASSWORD MANAGEMENT
+
+Passwords are the primary authentication mechanism and must meet the organization's complexity requirements. All passwords must be at least 12 characters long and contain a combination of uppercase letters, lowercase letters, numbers, and special characters. Commonly used or previously used passwords are not permitted.
+
+Passwords must be changed every 90 days for standard user accounts and every 60 days for privileged accounts. The system will enforce this requirement automatically and will prevent reuse of the last 10 passwords. Employees who suspect their passwords have been compromised must reset them immediately and notify the IT security team.
+
+Employees must use the organization-approved password manager to store and retrieve passwords securely. Writing passwords on paper or storing them in unencrypted documents is strictly prohibited. The use of auto-saved browser passwords for company accounts is also not recommended.
+
+Default passwords on any newly deployed device, application, or system must be changed immediately upon setup. Systems with default credentials must not be connected to the corporate network until properly secured. IT must verify password policy compliance as part of all system commissioning checklists.
+
+SECTION 4: DATA CLASSIFICATION AND HANDLING
+
+All organizational data is classified into four categories: Public, Internal, Confidential, and Restricted. Public data is information that can be freely shared with the outside world, such as marketing materials and press releases. Internal data is intended for use within the organization and must not be shared externally without authorization.
+
+Confidential data includes personally identifiable information (PII), financial records, client contracts, and business strategies. This data must be encrypted in transit and at rest, and access must be limited to authorized personnel on a need-to-know basis. Confidential data must not be stored on personal devices or unapproved cloud storage platforms.
+
+Restricted data is the most sensitive category and includes trade secrets, source code, encryption keys, and merger and acquisition information. Access to restricted data is tightly controlled, requires multi-layer approval, and is audited continuously. Unauthorized access to or disclosure of restricted data is a serious offense with potential legal consequences.
+
+Data labeling is the responsibility of the data owner — typically the department head or project lead. All documents, emails, and files containing sensitive data must carry the appropriate classification label. Employees handling unlabeled data of apparent sensitivity must apply the most conservative classification until confirmed otherwise.
+
+Data must not be transmitted to external parties via personal email accounts or unauthorized file sharing services. All outbound data transfers must go through approved secure channels such as the company's encrypted file transfer portal. The security team monitors outbound data flows for anomalies using data loss prevention (DLP) tools.
+
+SECTION 5: EMAIL AND INTERNET USAGE
+
+Corporate email accounts are to be used exclusively for business purposes. Personal email communications must not be conducted through company accounts. The organization reserves the right to monitor email activity in accordance with applicable privacy laws and employee disclosure agreements.
+
+Employees must exercise caution when receiving emails from unknown or unverified senders. Phishing emails often mimic legitimate sources and attempt to collect credentials or install malicious software. Suspicious emails must be reported to the IT security team immediately and must not be opened, clicked, or forwarded.
+
+Email attachments from external sources must not be opened unless the sender is verified and the content is expected. Executable files (.exe, .bat, .vbs, .js) received via email are always blocked by the mail gateway and must not be obtained through alternative channels. In case of doubt, the IT helpdesk must be consulted before opening any attachment.
+
+Internet access provided by the organization is filtered and monitored to block access to malicious, inappropriate, or non-business-related websites. Employees must not attempt to bypass web filters through the use of VPN tunnels, proxy servers, or anonymizing tools. Any attempt to circumvent internet controls is treated as a serious security violation.
+
+Downloading software, games, or media from the internet onto company devices is prohibited unless approved by the IT department. All software installations must go through the official IT service request process and must be licensed appropriately. Unlicensed or pirated software on company devices creates legal and security risks.
+
+SECTION 6: DEVICE AND ENDPOINT SECURITY
+
+All company-issued devices, including laptops, desktops, tablets, and smartphones, must have endpoint protection software installed and active at all times. Endpoint protection includes antivirus, anti-malware, and host-based intrusion detection capabilities. Devices detected without active endpoint protection will be isolated from the network until remediated.
+
+Operating systems and all installed software on company devices must be kept up to date with the latest security patches. Patch management is handled centrally by the IT operations team using an automated patch management system. Employees must not decline or postpone system updates initiated by the IT team.
+
+Full disk encryption is mandatory on all company laptops and portable storage devices. Unencrypted devices containing company data are a significant risk in the event of loss or theft. Employees are required to report lost or stolen devices to the IT security team and HR within 2 hours of discovery.
+
+Personal devices may be used for work purposes only under the Bring Your Own Device (BYOD) policy, which requires enrollment in the company's Mobile Device Management (MDM) system. Enrolled devices are subject to company security configurations including remote wipe capability. Employees must consent to the MDM terms before using personal devices for business.
+
+USB drives and external storage devices from unknown sources must never be connected to company systems. The use of company data on personal USB drives is prohibited unless encrypted and approved by the IT security team. All authorized removable media use is logged in the asset management system.
+
+SECTION 7: NETWORK SECURITY
+
+The corporate network is segmented into zones based on the sensitivity of the data and systems within each zone. Production systems, development environments, and corporate user networks are maintained on separate network segments. Cross-zone traffic is strictly controlled by firewalls and access control lists.
+
+Wireless networks at company premises are secured using WPA3 encryption. Guest Wi-Fi networks are isolated from the corporate network to prevent unauthorized lateral movement. Employees must not connect to unsecured or public Wi-Fi networks when handling company data without using the approved VPN solution.
+
+Remote access to the corporate network is provided exclusively through the organization's Virtual Private Network (VPN) solution. Employees working remotely must activate the VPN before accessing any company resources. Split tunneling — where only selected traffic is routed through the VPN — is not permitted for security reasons.
+
+Network access control (NAC) is implemented to ensure that only compliant devices can connect to the corporate network. Non-compliant devices that fail health checks, such as missing patches or disabled antivirus, are redirected to a remediation network. Employees must ensure their devices are compliant before attempting to connect to the corporate network.
+
+Intrusion detection and prevention systems (IDS/IPS) are deployed at all network perimeters to detect and block malicious traffic in real time. Network traffic is continuously monitored by the security operations center (SOC). Any anomalies detected are investigated within one hour of identification.
+
+SECTION 8: INCIDENT MANAGEMENT
+
+A security incident is any event that may threaten the confidentiality, integrity, or availability of the organization's information assets. Common examples include malware infections, unauthorized access, data breaches, phishing attacks, and system outages caused by cyberattacks. All employees have a responsibility to report suspected security incidents without delay.
+
+Security incidents must be reported to the IT security team immediately through the designated incident hotline or the security incident portal. Employees must not attempt to investigate or resolve a security incident on their own. Early reporting significantly improves the organization's ability to contain and remediate the incident.
+
+The incident response team follows a defined process consisting of identification, containment, eradication, recovery, and lessons learned. Every incident is assigned a severity level from P1 (critical) to P4 (low) based on its potential business impact. P1 incidents require immediate escalation to the CISO and executive leadership team.
+
+Post-incident reviews are conducted for all major security incidents to understand root causes and implement preventive measures. Findings and corrective actions are documented and tracked to closure. The lessons learned from each incident are used to improve security controls and employee awareness training.
+
+Regulatory reporting obligations apply in cases involving personal data breaches as defined under applicable data protection laws. The organization is required to notify affected individuals and regulatory authorities within the time frames specified by law. The CISO and legal team coordinate all regulatory communications related to data breaches.
+
+SECTION 9: PHYSICAL SECURITY
+
+Physical access to company premises is controlled through access cards and biometric systems. Visitor access is managed through a visitor management system, and all visitors must be escorted by an authorized employee at all times. Tailgating — entering a secure area by following another person without independent authentication — is strictly prohibited.
+
+Sensitive areas such as server rooms, data centers, and executive meeting rooms require elevated access privileges. Access to these areas is restricted to specifically authorized personnel and is logged electronically. Unauthorized individuals found in sensitive areas are treated as a security incident.
+
+Employees must ensure that their workstations are locked whenever they leave their desks, even briefly. A screen lock must activate automatically after 5 minutes of inactivity. Clear desk and clear screen practices must be followed at all times to prevent unauthorized viewing of sensitive information.
+
+Printing of confidential or restricted documents must be done only on secure printers that require authentication before releasing the print job. Uncollected printouts are a common source of data leakage. Employees must collect their printouts promptly and dispose of sensitive documents using cross-cut shredders.
+
+SECTION 10: SECURITY AWARENESS AND TRAINING
+
+All employees must complete the mandatory information security awareness training within their first 30 days of employment. Annual refresher training is required for all staff and must be completed by December 31st of each year. Completion is tracked in the learning management system and is part of the year-end compliance checklist.
+
+Phishing simulation exercises are conducted at random intervals throughout the year to assess employee vigilance. Employees who click on simulated phishing links are automatically enrolled in additional awareness training. Repeated failures in phishing simulations will be escalated to the employee's manager for further action.
+
+Security awareness content is updated regularly to reflect the latest threat landscape and attack techniques. Topics covered include social engineering, ransomware, secure remote work practices, and safe use of cloud services. The security team publishes monthly security tips and alerts through the internal communication channels.
+
+Department-specific security training is provided for teams handling sensitive data, such as finance, HR, and engineering. This training addresses the unique risks and compliance requirements relevant to each function. Managers are responsible for ensuring their teams attend and complete all assigned training programs.
+
+SECTION 11: CLOUD SECURITY
+
+The organization uses approved cloud platforms for hosting applications, storing data, and enabling collaboration. All cloud services used for company purposes must be evaluated and approved by the IT security team before adoption. Unapproved use of cloud services, often referred to as shadow IT, is strictly prohibited and may result in disciplinary action.
+
+Data stored in cloud environments must be encrypted at rest using AES-256 encryption and in transit using TLS 1.2 or higher. Cloud storage buckets and containers must be configured as private by default and reviewed for public exposure regularly. Misconfigured cloud resources are one of the most common causes of data breaches and must be identified through automated scanning tools.
+
+Identity and access management (IAM) policies in cloud environments must follow the least-privilege principle. Service accounts and API keys must be managed through a centralized vault and rotated every 90 days. All cloud access events are logged to a centralized security information and event management (SIEM) system for monitoring and alerting.
+
+Cloud vendors are assessed against the organization's third-party risk management framework before onboarding. Key criteria include SOC 2 Type II certification, data residency capabilities, and compliance with applicable data protection regulations. Cloud vendor contracts must include security addendums outlining obligations for data protection, breach notification, and audit access.
+
+SECTION 12: APPLICATION SECURITY
+
+All software developed by or for the organization must follow the secure software development lifecycle (SSDLC). Security requirements must be defined at the start of each development project, and secure coding standards must be followed throughout. Code reviews with a security focus are mandatory before any code is deployed to production.
+
+Static application security testing (SAST) and dynamic application security testing (DAST) tools are integrated into the CI/CD pipeline to automatically scan for vulnerabilities. Critical or high-severity vulnerabilities must be resolved before a release can proceed to production. The security team must sign off on all production deployments involving security-sensitive changes.
+
+Third-party libraries and open-source components used in company applications must be inventoried and tracked for known vulnerabilities. The software composition analysis (SCA) tool is used to detect vulnerable dependencies and flag them for patching. Components with unresolved critical vulnerabilities must be replaced or patched within 14 days of identification.
+
+Penetration testing is conducted at least annually on all critical applications and infrastructure components. Testing is performed by accredited internal or third-party security professionals. Identified findings are risk-rated and tracked to remediation within defined SLAs based on severity level.
+
+Web applications exposed to the internet must be protected by a web application firewall (WAF). The WAF is configured to block known attack patterns including SQL injection, cross-site scripting (XSS), and CSRF attacks. WAF logs are reviewed daily by the SOC for signs of targeted attacks.
+
+SECTION 13: CRYPTOGRAPHY AND KEY MANAGEMENT
+
+Encryption is applied to all data classified as Confidential or Restricted, both in storage and in transit. The organization uses only industry-approved cryptographic algorithms, including AES-256 for symmetric encryption and RSA-2048 or ECC-256 for asymmetric encryption. Use of deprecated or weak algorithms such as DES, RC4, or MD5 is strictly prohibited.
+
+Encryption keys are managed through a centralized key management system (KMS). Key generation, storage, rotation, and destruction must adhere to the key management policy. Unauthorized access to encryption keys is a critical security incident and must be escalated to the CISO immediately.
+
+Cryptographic certificates used for SSL/TLS must be obtained from approved Certificate Authorities (CAs). Certificates must be renewed at least 30 days before their expiration date. Expired or self-signed certificates on production systems are flagged as high-severity findings and must be resolved within 48 hours.
+
+SECTION 14: BUSINESS CONTINUITY AND DISASTER RECOVERY
+
+The organization maintains a Business Continuity Plan (BCP) and Disaster Recovery Plan (DRP) to ensure the continuity of critical operations in the event of a major disruption. These plans are reviewed and tested at least once per year. Testing scenarios include natural disasters, cyberattacks, power failures, and data center outages.
+
+Recovery Time Objectives (RTOs) and Recovery Point Objectives (RPOs) are defined for all critical systems and services. The IT team is responsible for ensuring that backup and recovery mechanisms are in place to meet these targets. Any system that cannot meet its RTO or RPO targets must be escalated to the CISO and senior management for remediation.
+
+Data backups are performed daily for all critical systems and stored in geographically separated locations. Backup integrity is tested monthly to verify that data can be successfully restored. Backup data is encrypted and access is restricted to authorized personnel only.
+
+SECTION 15: VENDOR AND THIRD-PARTY SECURITY
+
+All third-party vendors who process, store, or transmit company data must undergo a security risk assessment before engagement. The assessment evaluates the vendor's security policies, certifications, incident response capabilities, and data handling practices. Vendors who do not meet the organization's security baseline are not permitted to access company data.
+
+Security requirements are embedded in all vendor contracts through a standard security addendum. The addendum covers data protection obligations, breach notification timelines, audit rights, and sub-processor restrictions. Vendors must notify the organization within 24 hours of discovering any incident that may impact company data.
+
+Vendor security postures are reviewed annually or upon significant changes to the vendor's service or organizational structure. Reviews may include questionnaires, independent audit reports, or on-site assessments. Vendors who fail to maintain acceptable security standards may have their contracts terminated.
+
+SECTION 16: POLICY ENFORCEMENT AND REVIEW
+
+All employees, contractors, and vendors are bound by this Information Security Policy as a condition of their engagement with the organization. Non-compliance with the policy is treated as a serious disciplinary matter and may result in sanctions up to and including termination or contract termination for external parties. Security policy violations that result in regulatory penalties or legal liability may also trigger civil or criminal proceedings.
+
+The security policy is reviewed and updated at least annually by the CISO in consultation with the IT leadership, HR, and Legal teams. Reviews are also triggered by significant security incidents, changes in the regulatory environment, or major organizational changes. Updated versions are formally approved by the executive team and communicated to all stakeholders.
+
+Employees who identify gaps or ambiguities in this policy are encouraged to raise them through the IT helpdesk or directly with the CISO. Constructive policy improvement suggestions are welcomed and may be incorporated into the next revision. A culture of security ownership and proactive reporting is a cornerstone of the organization's security program.
+
+This policy is classified as Internal Use Only and must not be shared with external parties without written authorization from the CISO. All prior versions of this policy are superseded by this document effective January 1, 2025. Questions regarding this policy should be directed to security@apexsolutions.in or the IT Security team.
+
+SECTION 17: MOBILE SECURITY
+
+Mobile devices used for business purposes, whether company-issued or personal (BYOD), must be enrolled in the organization's Mobile Device Management (MDM) system. The MDM enforces security configurations including screen lock PIN requirements, app whitelisting, and the capability for remote wipe in case of loss or theft. Devices that fall out of MDM compliance are automatically blocked from accessing corporate email and applications.
+
+Employees must not jailbreak or root their devices that are enrolled in the MDM program. Jailbreaking disables built-in security mechanisms and exposes the device to malware that can compromise company data. Any enrolled device detected as jailbroken or rooted will be immediately unenrolled and blocked from the corporate environment.
+
+Mobile apps used to access corporate resources must be from the organization's approved application list. Sideloading of applications from unofficial sources onto enrolled devices is prohibited. Employees should contact the IT helpdesk for assistance in accessing required business applications through official app stores.
+
+SMS and personal messaging apps must not be used to share confidential company information or conduct official business communications. Approved communication tools include the company's enterprise messaging platform and email. Use of consumer messaging apps for work discussions creates shadow communication channels that are outside the organization's monitoring and data retention controls.
+
+SECTION 18: SECURITY METRICS AND REPORTING
+
+The CISO publishes a monthly security dashboard for senior leadership that summarizes key metrics including open vulnerabilities, patch compliance rates, phishing simulation results, and incident counts. These metrics provide visibility into the organization's security posture and are used to make informed risk decisions. Trend analysis over rolling 12-month periods is used to assess the effectiveness of security investments.
+
+Department-level security scorecards are issued quarterly to business unit heads to reflect the security behavior of their teams. Scorecards include metrics such as training completion rates, policy acknowledgment compliance, and number of security incidents attributable to the team. Business units with consistently poor scores are required to develop and execute a security improvement plan.
+
+The security team maintains a risk register that tracks all identified security risks along with their likelihood, potential impact, mitigation status, and risk owner. The risk register is reviewed monthly by the CISO and presented to the Board's Risk and Audit Committee on a quarterly basis. Any risk escalating to a critical rating triggers an immediate management review.
+
+Annual external security audits are commissioned by the organization to obtain an independent assessment of its security controls. Audit firms are selected through a competitive bidding process and must hold recognized security credentials. Audit findings are tracked to closure by the CISO and reported to the Board as part of the annual governance cycle.
+
+SECTION 19: ARTIFICIAL INTELLIGENCE AND EMERGING TECHNOLOGY SECURITY
+
+The use of Artificial Intelligence (AI) tools, including generative AI platforms and large language model (LLM) services, for work purposes is subject to the organization's AI usage policy and this security policy. Employees must not input confidential, restricted, or personally identifiable information into public AI tools that do not have a data processing agreement with the organization. Approved AI tools with appropriate data protection agreements are listed on the IT portal.
+
+AI-generated outputs used in official communications, reports, or products must be reviewed and validated by qualified employees before use. Blind reliance on AI outputs without human verification creates risks of factual inaccuracies, bias, and reputational harm. Employees are responsible for the accuracy and appropriateness of any content they publish or act upon, regardless of how it was generated.
+
+Emerging technologies such as Internet of Things (IoT) devices, blockchain platforms, and edge computing solutions must undergo a security assessment before being introduced into the corporate environment. The IT security team evaluates new technologies against the organization's risk threshold and security architecture standards. Introduction of unapproved technologies into the corporate network is a policy violation.
+
+SECTION 20: DOCUMENT CONTROL
+
+Information Security Policy | Version 4.1 | Classification: Internal Use Only | Effective Date: January 1, 2025 | Owner: Chief Information Security Officer | Next Review: December 31, 2025. This document supersedes all previous versions of the Information Security Policy. Unauthorized reproduction or external distribution of this document is prohibited.

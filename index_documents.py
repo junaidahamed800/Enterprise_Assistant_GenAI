@@ -7,6 +7,9 @@ print("Starting Indexing...")
 documents = load_documents()
 print("Documents Loaded Sucessfully!")
 
+
+print(f"Total Documents: {len(documents)}")
+
 chunks = create_chunks(
     documents
 )

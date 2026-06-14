@@ -1,353 +1,200 @@
-=================================================
-COMPANY EMPLOYEE HANDBOOK
-=========================
+COMPANY POLICY DOCUMENT
+Organization: Apex Solutions Pvt. Ltd.
+Effective Date: January 1, 2025
+Version: 5.0
+Classification: Internal Use Only
 
-## SECTION 1: HR POLICIES
+SECTION 1: COMPANY OVERVIEW AND POLICY PURPOSE
 
-Employees are expected to maintain professional conduct at all times.
+Apex Solutions Pvt. Ltd. is a technology-driven organization committed to delivering innovative solutions to its clients while maintaining the highest standards of integrity, professionalism, and operational excellence. This Company Policy Document serves as the master reference for all organizational policies that govern employee behavior, business operations, and stakeholder relationships. It is designed to ensure that every individual associated with the organization understands and upholds the values and standards expected of them.
 
-Employees must respect diversity and inclusion principles.
+The purpose of this policy is to provide a unified framework that aligns individual conduct with the organization's mission, vision, and long-term strategic goals. By clearly articulating expectations and responsibilities, this document helps create a consistent and fair workplace experience for all employees. It also serves as a foundation for resolving disputes, making decisions, and holding individuals accountable in a transparent manner.
 
-Harassment of any kind is strictly prohibited.
+This document is binding on all permanent employees, probationary staff, contractual workers, interns, and third-party personnel operating on behalf of or within the premises of Apex Solutions Pvt. Ltd. It is the responsibility of every individual covered under this policy to read, understand, and comply with its provisions. Non-compliance may result in disciplinary action as outlined in the relevant sections.
 
-Discrimination based on race, gender, religion, age, or disability is prohibited.
+SECTION 2: ORGANIZATIONAL VALUES AND CULTURE
 
-Employees must complete onboarding training within 30 days.
+Apex Solutions is built on five core values: Integrity, Innovation, Collaboration, Customer Focus, and Accountability. These values guide every business decision, client interaction, and internal process within the organization. Employees are expected to embody these values in their daily work and interactions.
 
-All employees must maintain accurate personal information in HR systems.
+Integrity means doing what is right even when no one is watching. Employees must act honestly, transparently, and ethically at all times. Any behavior that compromises the integrity of the organization or its stakeholders will not be tolerated and will be subject to disciplinary review.
 
-Managers are responsible for maintaining a respectful workplace.
+Innovation is encouraged at every level of the organization. Employees are empowered to challenge the status quo, propose creative solutions, and experiment with new approaches in a responsible manner. A culture of continuous improvement is maintained through structured ideation forums, hackathons, and innovation grants.
 
-Employees must comply with company policies and procedures.
+Collaboration is central to how work gets done at Apex Solutions. Cross-functional teamwork, knowledge sharing, and mutual respect are expected norms. Siloed working, territorial behavior, or withholding information that could benefit the organization is considered contrary to the company's culture.
 
-Workplace violence is strictly prohibited.
+Customer Focus ensures that all internal decisions and processes are ultimately evaluated against the impact they have on client satisfaction and value delivery. Employees interacting directly or indirectly with clients must maintain the highest standards of professionalism, responsiveness, and quality. Internal teams must also treat each other as internal customers, maintaining service standards across departments.
 
-Employees are encouraged to report policy violations.
+SECTION 3: EQUAL OPPORTUNITY AND NON-DISCRIMINATION
 
-Retaliation against employees who report concerns is prohibited.
+Apex Solutions is an equal opportunity employer and does not discriminate on the basis of gender, age, religion, caste, nationality, disability, sexual orientation, or any other protected characteristic. All employment decisions including recruitment, promotion, compensation, and separation are made solely on the basis of merit, competence, and organizational need. The company is committed to maintaining a workplace that is free from bias, prejudice, and discriminatory practices.
 
-Employees should maintain professional communication.
+Recruitment processes are designed to be structured, transparent, and free from unconscious bias. All interviewers are trained in fair assessment techniques and are required to use standardized evaluation rubrics. Any complaints of discriminatory treatment during the hiring process must be reported to HR immediately and will be investigated with urgency.
 
-Dress code requirements must be followed during office visits.
+Promotion and advancement opportunities are communicated openly and are accessible to all eligible employees regardless of demographic background. Selection for leadership programs, stretch assignments, and high-visibility projects is based on performance data and potential assessments. HR monitors diversity metrics across levels and functions to identify and address any systemic imbalances.
 
-Employees must attend mandatory HR sessions.
+SECTION 4: CODE OF ETHICS AND BUSINESS CONDUCT
 
-Conflicts of interest must be disclosed to management.
+All employees are required to maintain the highest standards of ethical conduct in every aspect of their work. This includes honest communication, fair dealing with suppliers and clients, adherence to legal and regulatory requirements, and responsible use of company resources. The company's Code of Ethics applies equally to business activities conducted on-site, off-site, and remotely.
 
-Employees should cooperate during investigations.
+Bribery and corruption in any form are strictly prohibited. Employees must not offer, accept, solicit, or facilitate payments, gifts, hospitality, or other benefits intended to improperly influence a business decision. All gifts received from external parties exceeding INR 2,000 in value must be declared to the compliance team within 5 working days.
 
-Company property must be used responsibly.
+Conflicts of interest must be proactively disclosed to the HR and compliance teams. A conflict of interest arises when an employee's personal interests interfere or appear to interfere with their professional responsibilities. Examples include holding a financial stake in a competitor, conducting business through a family member's firm, or hiring a personal acquaintance without going through the standard recruitment process.
 
-Employees are expected to act ethically.
+Employees must not engage in insider trading or use material non-public information about the company or its clients for personal financial gain. Sharing such information with external parties is illegal and constitutes a breach of fiduciary duty. The company maintains a trading window policy for employees with access to price-sensitive information.
 
-Unauthorized disclosure of confidential information is prohibited.
+SECTION 5: COMMUNICATION STANDARDS
 
-HR records are maintained securely.
+Professional communication is a fundamental expectation at Apex Solutions. All written and verbal communication — whether internal or external — must be accurate, respectful, clear, and appropriate for the context. Poor communication habits, including vagueness, aggression, or misrepresentation, reflect negatively on both the individual and the organization.
 
-## SECTION 2: LEAVE POLICIES
+Official company communications must use approved templates, branding guidelines, and tone-of-voice standards provided by the marketing and communications team. Unauthorized use of the company logo, letterhead, or official email signatures for personal communications is prohibited. All external-facing documents and presentations must be reviewed and cleared by the relevant authority before distribution.
 
-Employees are entitled to 20 annual leave days per year.
+Employees must exercise care when communicating via digital channels, including email, messaging platforms, and video calls. Digital communications are subject to monitoring by the IT team in accordance with applicable laws and company policy. Employees should assume that all business communications may be reviewed and must ensure that the content is appropriate at all times.
 
-Annual leave requests should be submitted in advance.
+SECTION 6: INTELLECTUAL PROPERTY
 
-Managers must approve planned leave requests.
+All intellectual property (IP) created by employees in the course of their employment belongs exclusively to Apex Solutions Pvt. Ltd. This includes software code, product designs, business processes, marketing materials, research findings, and client deliverables. Employees must not claim personal ownership of work product created within the scope of their employment.
 
-Sick leave requests should be submitted through the HR portal.
+Employees who create inventions, innovations, or original works during their employment must disclose these to the organization through the IP disclosure form available on the HR portal. The organization will evaluate the disclosure and determine the appropriate course of action, which may include filing for patent protection. Employees may be recognized or rewarded for significant intellectual contributions as per the innovation recognition program.
 
-Medical certificates may be required for absences longer than three days.
+Use of third-party IP, including software, images, trademarks, and copyrighted content, must be done in compliance with applicable licensing terms. Unauthorized reproduction, distribution, or adaptation of third-party IP is a legal violation that exposes the organization to liability. The legal team must be consulted before using any third-party content in company materials.
 
-Unused leave may be carried forward according to company policy.
+Employees who leave the organization must return all IP-related materials and must not take copies of proprietary information, source code, or client data. Non-disclosure and non-compete obligations specified in the employment agreement continue to apply after separation. Violation of post-employment IP obligations may result in legal action by the organization.
 
-Emergency leave may be granted under special circumstances.
+SECTION 7: FINANCIAL CONTROLS AND EXPENSE MANAGEMENT
 
-Maternity leave is available as per applicable regulations.
+All financial transactions carried out on behalf of the organization must comply with the company's financial control policies and applicable accounting standards. Employees authorized to approve expenditures must exercise their authority responsibly and within the defined limits of their role. Unauthorized commitments of company funds are a serious policy violation.
 
-Paternity leave is available as per company guidelines.
+Expense claims must be submitted within 7 working days of incurring the expense with original receipts and a completed expense report. Claims submitted beyond 30 days without a justified reason may not be reimbursed. Finance has the right to reject claims that are incomplete, unsupported, or non-compliant with the expense policy.
 
-Bereavement leave may be granted following the loss of a family member.
+Employees must not split purchase orders or contracts to circumvent approval thresholds. Procurement decisions above defined financial limits must go through the standard vendor selection and approval process. Any deviation from procurement policy requires written approval from the Finance Director and the relevant Business Unit Head.
 
-Employees should notify managers promptly regarding absences.
+Petty cash usage is restricted to minor office expenses below INR 1,000 per transaction. Petty cash accounts are maintained by designated custodians and reconciled weekly. Misuse of petty cash, including personal spending or unauthorized disbursements, will result in immediate recovery and disciplinary action.
 
-Extended leave requires additional approval.
+SECTION 8: CUSTOMER AND CLIENT RELATIONS
 
-Leave balances can be viewed in the HR portal.
+Client satisfaction is the highest priority for Apex Solutions and every employee is considered an ambassador of the client relationship, regardless of their role. Employees interacting with clients must be professional, responsive, accurate, and empathetic at all times. Any client escalation or complaint must be escalated to the account manager and the relevant Business Unit Head within 24 hours.
 
-Public holidays are published annually.
+All commitments made to clients regarding delivery timelines, pricing, quality standards, or service levels must be documented in a formally approved Statement of Work (SoW) or contract. Verbal commitments that deviate from the approved SoW must not be made without the written approval of the authorized signatory. Undocumented commitments are not enforceable and create risk for the organization.
 
-Employees are encouraged to plan leave responsibly.
+Client data and confidential business information shared during the engagement must be handled strictly as per the terms of the Non-Disclosure Agreement (NDA) and data protection addendum signed with each client. Client data must not be shared with other clients, used for internal research without consent, or retained beyond the period specified in the contract. Data protection obligations to clients form part of the organization's broader compliance program.
 
-## SECTION 3: REMOTE WORK POLICY
+SECTION 9: VENDOR AND PROCUREMENT POLICY
 
-Employees may work remotely up to three days per week.
+Vendor selection must follow a competitive evaluation process to ensure that the organization receives the best value for its investments. All new vendors must be registered in the vendor management system and undergo a due diligence review covering financial stability, legal compliance, and reputation. Strategic vendors are reviewed annually and scored against KPIs defined in the vendor scorecard.
 
-Remote employees must be available during core business hours.
+Purchase orders are mandatory for all procurement above INR 10,000. Verbal agreements or purchase commitments made without a formal PO are not binding on the organization. Finance will not process invoices without a corresponding PO number and a three-way match between the PO, goods receipt note, and invoice.
 
-Company-issued devices should be used for official work.
+Employees must not accept hospitality from vendors that could be construed as an attempt to influence procurement decisions. Business meals with vendors are permitted up to a value of INR 3,000 per person, provided they are in the context of a genuine business discussion. All vendor hospitality received above the permissible limit must be disclosed to the compliance team.
 
-Employees should maintain a reliable internet connection.
+SECTION 10: HEALTH, SAFETY, AND ENVIRONMENT
 
-Remote work arrangements require manager approval.
+Apex Solutions is committed to providing a safe and healthy work environment for all employees, visitors, and contractors. The organization complies with all applicable occupational health and safety regulations and conducts regular workplace safety audits. Safety is everyone's responsibility and employees must actively contribute to maintaining safe working conditions.
 
-Employees must attend required virtual meetings.
+All workplace accidents, injuries, near misses, and unsafe conditions must be reported to the facilities manager and HR immediately. Incidents are investigated to identify root causes and implement corrective actions to prevent recurrence. Failure to report a workplace incident is itself a policy violation and may impede the organization's ability to protect its employees.
 
-Work hours must be accurately recorded.
+The company is committed to reducing its environmental footprint through sustainable business practices. Energy conservation, paperless operations, waste reduction, and responsible sourcing are encouraged across all offices. Employees are encouraged to participate in the organization's environmental initiatives and to suggest improvements through the sustainability portal.
 
-Company data must be protected while working remotely.
+SECTION 11: GIFTS AND ENTERTAINMENT POLICY
 
-Employees should maintain a productive work environment.
+Employees may accept gifts from external parties only if the value does not exceed INR 2,000 and the gift does not create an actual or perceived obligation to the giver. Gifts received above this threshold must be declared to the compliance team and may be donated to charity or retained by the company. Gifts in the form of cash or cash equivalents, such as gift cards or vouchers, must never be accepted regardless of value.
 
-Remote workers must comply with all security policies.
+Providing gifts to clients, vendors, or government officials must be pre-approved by the compliance team and must comply with anti-bribery laws. Gifts given on behalf of the company must be branded and of nominal value. No gifts may be given to government officials or public servants as this may violate anti-corruption statutes applicable in the relevant jurisdiction.
 
-Managers may review remote work effectiveness periodically.
+Business entertainment, such as client lunches, dinners, or event tickets, may be offered or accepted in the context of a legitimate business relationship. Entertainment must be moderate in value, appropriate in nature, and not intended to improperly influence a business decision. All entertainment expenses above INR 5,000 per event must be pre-approved by the Business Unit Head and reported in the expense management system.
 
-Employees are responsible for safeguarding company equipment.
+SECTION 12: DOCUMENT AND RECORDS MANAGEMENT
 
-Video conferencing etiquette should be followed.
+The organization maintains a formal records management policy to ensure that business documents are created, stored, retained, and disposed of in a consistent and compliant manner. Documents are classified based on their content sensitivity and are stored in approved repositories with appropriate access controls. Unauthorized deletion or modification of official company records is a serious violation.
 
-Remote access systems must be used appropriately.
+Retention periods for different categories of documents are defined in the records retention schedule maintained by the legal and compliance team. Financial records must be retained for a minimum of 7 years as required by law. Employee records must be maintained for a minimum of 3 years after the employee's departure from the organization.
 
-Employees should promptly report technical issues.
+Physical documents containing sensitive information must be stored in locked cabinets and disposed of using cross-cut shredders. Digital documents must be backed up regularly and stored in encrypted, access-controlled repositories. Employees must not store company documents on personal devices, personal cloud accounts, or portable media without explicit authorization from IT security.
 
-## SECTION 4: SECURITY POLICY
+SECTION 13: WHISTLEBLOWER POLICY
 
-Passwords must contain at least twelve characters.
+The organization provides a safe and confidential channel for employees, contractors, and other stakeholders to report suspected violations of law, regulation, or company policy. The whistleblower hotline is managed by an independent third-party provider to ensure anonymity and impartiality. Reports can be submitted 24 hours a day, 7 days a week via phone or the online portal.
 
-Passwords should not be reused across systems.
+All whistleblower reports are reviewed by the compliance team and escalated to the appropriate authority for investigation. Investigations are conducted with complete confidentiality, and the identity of the reporter is protected to the extent possible under law. The organization does not tolerate retaliation against any individual who makes a report in good faith.
 
-Multi-factor authentication is mandatory.
+False reports made maliciously or in bad faith are a violation of this policy and may result in disciplinary action against the reporter. However, reports made honestly and in good faith will be treated with full protection even if the underlying facts turn out to be incorrect. The compliance team provides quarterly updates to the Board on the number and nature of reports received and their resolution status.
 
-Confidential information must not be shared externally.
+SECTION 14: CORPORATE GOVERNANCE AND COMPLIANCE
 
-Employees must not share passwords with others.
+Apex Solutions operates with a strong commitment to corporate governance, ensuring that the organization is managed in a transparent, accountable, and legally compliant manner. The Board of Directors provides strategic oversight, while the executive leadership team is responsible for day-to-day operations. A culture of compliance is embedded at every level of the organization through training, policies, and monitoring.
 
-Workstations should be locked when unattended.
+The compliance team is responsible for identifying applicable laws and regulations, translating them into internal policies, and monitoring adherence. Regulatory changes are tracked continuously, and impacted policies are updated within 60 days of a regulatory change taking effect. All employees in regulated functions receive targeted compliance training relevant to their roles.
 
-Security incidents must be reported immediately.
+Internal audits are conducted on a risk-based schedule by the internal audit team, which reports directly to the Board's Audit Committee. Audit findings are shared with department heads and tracked to closure. Repeated audit findings in the same area may trigger an escalated review by the Audit Committee.
 
-USB devices require authorization before use.
+SECTION 15: POLICY REVIEW AND EMPLOYEE RESPONSIBILITY
 
-Company laptops must have antivirus software installed.
+This Company Policy Document is reviewed annually by the HR, Legal, and Compliance teams and updated as needed to reflect changes in law, business context, or organizational priorities. Material changes are communicated to all employees through official channels with a minimum of 30 days' notice before taking effect. Employees are required to acknowledge the updated policy through the HR portal within 15 days of the communication.
 
-Email attachments from unknown sources should not be opened.
+Every employee is personally responsible for understanding and complying with all policies contained in this document and any related sub-policies referenced herein. The organization provides policy summaries, FAQs, and HR helpdesk support to assist employees in understanding their obligations. Claimed ignorance of this policy is not a defense against disciplinary action for non-compliance.
 
-Employees should recognize phishing attempts.
+Managers and team leaders carry an elevated responsibility to model compliant behavior and to ensure that their teams are aware of and adhere to company policies. Managers who knowingly allow or encourage policy violations by their team members will be held equally accountable. Leadership accountability is assessed as part of the annual performance review process.
 
-Confidential documents should be stored securely.
+This document is the property of Apex Solutions Pvt. Ltd. and is classified as Internal Use Only. Reproduction or distribution outside the organization without written authorization from the Chief People Officer and General Counsel is strictly prohibited. For policy-related queries, contact policy@apexsolutions.in or visit the HR portal under the Compliance section.
 
-Only authorized personnel may access restricted systems.
+SECTION 16: WORKPLACE ERGONOMICS AND EMPLOYEE HEALTH
 
-Security awareness training is mandatory annually.
+The organization is committed to providing ergonomically designed workspaces that minimize the risk of musculoskeletal disorders and work-related injuries. All workstations are equipped with adjustable chairs, monitor stands, and adequate lighting to support healthy posture. Employees who experience discomfort related to their workstation setup should contact the facilities team immediately for an ergonomic assessment.
 
-Employees must follow data protection requirements.
+The company offers periodic health check-up programs for all permanent employees, including general health screenings, vision tests, and stress assessments. Health check-up camps are organized annually in partnership with certified medical providers. Participation is voluntary but strongly encouraged as a proactive measure toward long-term employee well-being.
 
-Customer data must be handled securely.
+Employees experiencing chronic health conditions that affect their ability to perform their role are encouraged to discuss accommodation options with HR in confidence. Reasonable workplace adjustments will be made wherever operationally feasible, including modified workstations, adjusted working hours, or temporary role realignment. The company is committed to supporting employees through health challenges without compromising their dignity or job security.
 
-System access is granted based on business need.
+SECTION 17: SOCIAL RESPONSIBILITY AND COMMUNITY ENGAGEMENT
 
-Physical access badges must be displayed when required.
+Apex Solutions recognizes that its responsibilities extend beyond its business operations to the communities it serves and the environment in which it operates. The company's Corporate Social Responsibility (CSR) program focuses on education, environmental sustainability, and livelihood development in underserved communities. A dedicated CSR committee oversees the planning, execution, and reporting of all social impact initiatives.
 
-Security audits may be conducted periodically.
+Employees are actively encouraged to volunteer for CSR activities organized by the company throughout the year. The organization provides two paid volunteer days per year for participation in company-sanctioned community service programs. Employees who take the initiative to propose new CSR projects may submit their ideas to the CSR committee for evaluation and funding consideration.
 
-Unauthorized access attempts must be reported.
+The company partners with recognized non-governmental organizations (NGOs) and educational institutions to implement its CSR programs. All NGO partnerships are vetted for credibility, fund utilization efficiency, and alignment with the company's CSR objectives. Annual CSR impact reports are published on the company website and shared with shareholders as part of the statutory reporting process.
 
-## SECTION 5: IT POLICY
+SECTION 18: DRUG AND ALCOHOL POLICY
 
-Only authorized software may be installed.
+The consumption, possession, or distribution of alcohol or illegal substances on company premises or during company-sponsored events is strictly prohibited. Employees who report to work under the influence of alcohol or drugs pose a safety risk to themselves and their colleagues and will be subject to immediate disciplinary action. The organization reserves the right to conduct reasonable suspicion testing in cases where impairment is suspected.
 
-Use of pirated software is prohibited.
+Employees who are dependent on alcohol or controlled substances are encouraged to seek help through the Employee Assistance Program (EAP), which provides confidential counseling and referral services. Voluntarily seeking help for substance dependency will not be used against an employee in disciplinary proceedings, provided the employee is not under the influence at work. The company supports rehabilitation and recovery and will make reasonable accommodations for employees engaged in treatment programs.
 
-Employees must comply with software licensing requirements.
+Prescription medications that may impair an employee's ability to perform their duties safely must be disclosed to HR and the occupational health team. In such cases, temporary role adjustments or additional safety measures will be discussed and implemented collaboratively. Employees are not required to disclose the specific nature of their medical condition, only the potential impact on their work performance or safety.
 
-Personal devices require approval before accessing company systems.
+SECTION 19: MEDIA AND PUBLIC RELATIONS POLICY
 
-Internet usage should support business activities.
+Only authorized spokespersons — typically the CEO, designated executives, or the communications team — may represent the company to media, press, or public forums. Employees who are approached by journalists, analysts, or media representatives must redirect them to the official communications contact without making any statements on behalf of the company. Unauthorized media interactions may result in reputational risk and are a policy violation.
 
-Company email accounts should be used professionally.
+All press releases, media statements, interviews, and public presentations that reference the company's business, financials, or strategic direction must be reviewed and approved by the communications team and the legal counsel before release. This process ensures accuracy, legal compliance, and alignment with the company's public messaging strategy. Expedited review processes are available for time-sensitive communications.
 
-Employees must not disable security tools.
+Employees who maintain public blogs, podcasts, or social media accounts with a significant following must ensure that their personal content does not misrepresent the company or conflict with its public positions. If an employee's personal public content touches on matters related to their work at Apex Solutions, a disclosure that views expressed are personal and not those of the employer must be included. Employees are encouraged to consult the communications team for guidance on navigating this boundary appropriately.
 
-System updates should be installed promptly.
+SECTION 20: DOCUMENT CONTROL AND CLOSING STATEMENT
 
-IT support requests should be submitted through the help desk.
+Company Policy Document | Version 5.0 | Classification: Internal Use Only | Effective Date: January 1, 2025 | Document Owner: Chief People Officer in consultation with General Counsel | Next Scheduled Review: December 31, 2025. This document supersedes all previous versions of the Company Policy Document issued by Apex Solutions Pvt. Ltd.
 
-Employees should back up important files appropriately.
+All sections of this policy have been reviewed and approved by the Executive Leadership Team and the Board of Directors. Legal review was conducted to ensure compliance with all applicable national and state-level laws and regulations. Compliance with this policy is a condition of employment and engagement for all individuals covered under its scope.
 
-Unauthorized hardware installations are prohibited.
+Employees who have read and understood this document must complete the formal acknowledgment on the HR portal under Compliance > Policy Acknowledgments. The acknowledgment deadline for existing employees is January 31, 2025. New employees are required to acknowledge this policy within 5 working days of their date of joining. For any queries, write to policy@apexsolutions.in or reach out to your designated HR Business Partner.
 
-Cloud storage services must be approved before use.
+APPENDIX A: RELATED POLICY DOCUMENTS
 
-IT assets remain company property.
+This Company Policy Document is the master policy framework and is supplemented by several sub-policies that provide detailed guidance on specific topics. Employees are expected to be familiar with all sub-policies relevant to their roles. The following documents are available on the HR portal under the Policy Library section.
 
-Software requests require management approval.
+HR Policy Document covers detailed provisions on employment, onboarding, probation, attendance, performance management, compensation, benefits, disciplinary procedures, and exit management. It provides the operational framework for the employee lifecycle and must be read in conjunction with this master policy. The HR Policy Document is reviewed annually and updated as required by changes in labor law or business needs.
 
-Employees should report technical issues promptly.
+Leave Policy Document outlines all categories of leave available to employees, including annual, sick, casual, maternity, paternity, bereavement, compensatory, and leave without pay. It details eligibility criteria, application procedures, approval workflows, and encashment provisions for each leave type. Employees should refer to the Leave Policy Document for specific guidance on leave-related matters.
 
-## SECTION 6: TRAVEL POLICY
+Information Security Policy covers the organization's requirements for protecting information assets, including access control, data classification, password management, device security, network security, incident management, and security awareness. Compliance with the Information Security Policy is mandatory for all employees and third parties with access to company systems. The policy is reviewed and updated at least annually by the Chief Information Security Officer.
 
-Business travel requires manager approval.
+Procurement and Vendor Management Policy provides detailed guidance on the vendor selection, onboarding, evaluation, and offboarding process. It defines approval thresholds for procurement decisions, purchase order requirements, three-way matching procedures, and vendor performance review frameworks. Finance and procurement teams must adhere to this policy for all sourcing activities.
 
-Flight bookings should be made through approved vendors.
+APPENDIX B: POLICY ACKNOWLEDGMENT RECORD
 
-Hotel expenses must comply with company limits.
+By acknowledging this Company Policy Document on the HR portal, the employee confirms that they have read, understood, and agree to comply with all provisions contained herein and in all related sub-policies referenced in Appendix A. The acknowledgment is legally significant and may be referenced in disciplinary or legal proceedings where policy compliance is in question. Employees who have concerns about any provision of this policy must raise them with HR before submitting their acknowledgment.
 
-Employees should choose cost-effective travel options.
+Acknowledgment records are stored securely in the HR information system and are accessible only to authorized HR and compliance personnel. These records are retained for the duration of the employee's tenure and for a minimum of 3 years after separation. In the event of a compliance audit or legal proceeding, acknowledgment records may be produced as evidence of the organization's policy communication and employee awareness efforts.
 
-Travel expenses require supporting receipts.
+For assistance with policy acknowledgment or questions about the policy content, employees may contact the HR helpdesk at hrhelp@apexsolutions.in or call the HR support line at +91-40-1234-5678, available Monday to Friday from 9:00 AM to 6:00 PM IST. HR commits to responding to all policy-related queries within 2 working days. Policy FAQs are also available on the HR portal for quick reference.
 
-Expense reports should be submitted promptly.
-
-International travel may require additional approvals.
-
-Employees must comply with local laws while traveling.
-
-Travel advances may be available when approved.
-
-Unused travel funds should be returned promptly.
-
-Business purposes must be documented for travel requests.
-
-Travel insurance may be provided for approved trips.
-
-Managers should review travel expenses.
-
-Personal expenses are not reimbursable.
-
-Travel policies apply to all employees.
-
-## SECTION 7: EMPLOYEE BENEFITS
-
-Employees are eligible for health insurance benefits.
-
-Employees may participate in retirement savings plans.
-
-Annual wellness allowances are provided.
-
-Life insurance coverage may be available.
-
-Employees may access employee assistance programs.
-
-Benefit eligibility depends on employment status.
-
-Benefits information is available through HR.
-
-Employees may update benefit selections during enrollment periods.
-
-Vision coverage may be available.
-
-Dental coverage may be available.
-
-Wellness initiatives encourage healthy lifestyles.
-
-Benefit programs may change periodically.
-
-Employees should review benefit documentation carefully.
-
-Dependents may be eligible for certain benefits.
-
-Questions regarding benefits should be directed to HR.
-
-## SECTION 8: PERFORMANCE REVIEW
-
-Performance reviews occur twice annually.
-
-Employees are evaluated based on goals and competencies.
-
-Managers provide written feedback.
-
-Performance discussions should be constructive.
-
-Employees should participate actively in review meetings.
-
-Development goals should be documented.
-
-Managers should provide regular coaching.
-
-Performance ratings follow company guidelines.
-
-Employees may discuss concerns with HR.
-
-Recognition may be provided for outstanding performance.
-
-Improvement plans may be developed when necessary.
-
-Review records are maintained confidentially.
-
-Promotion decisions consider performance results.
-
-Training needs may be identified during reviews.
-
-Employees should track progress toward goals.
-
-## SECTION 9: TRAINING POLICY
-
-Employees must complete mandatory compliance training.
-
-Professional certifications may be reimbursed.
-
-Training records are maintained by HR.
-
-Managers should support employee development.
-
-Employees are encouraged to pursue learning opportunities.
-
-Required training deadlines must be met.
-
-Training effectiveness may be evaluated.
-
-Leadership development programs may be available.
-
-Technical training may be offered periodically.
-
-Employees should apply acquired knowledge in their work.
-
-Certification reimbursement requires approval.
-
-Learning resources may be provided online.
-
-Attendance may be tracked for training events.
-
-Employees should complete assigned courses.
-
-Continuous learning is encouraged across the organization.
-
-## SECTION 10: PROJECT MANAGEMENT GUIDELINES
-
-Projects must have documented requirements.
-
-Sprint planning meetings should occur every two weeks.
-
-Risks should be tracked throughout the project lifecycle.
-
-Change requests must be documented.
-
-Project objectives should be clearly defined.
-
-Stakeholders should be identified early.
-
-Project timelines should be realistic.
-
-Status updates should be communicated regularly.
-
-Project managers should monitor risks.
-
-Issues should be escalated promptly.
-
-Team members should collaborate effectively.
-
-Requirements changes require approval.
-
-Project documentation should be maintained.
-
-Lessons learned should be documented.
-
-Quality assurance activities should be planned.
-
-Testing should be completed before deployment.
-
-Project milestones should be tracked.
-
-Project budgets should be monitored.
-
-Project closure activities should be completed.
-
-Continuous improvement should be encouraged.
+This document is the intellectual property of Apex Solutions Pvt. Ltd. Unauthorized reproduction, redistribution, or external disclosure without written consent from the Chief People Officer is a violation of company policy and may attract legal liability.
+Document last updated: December 15, 2024 | Prepared by: HR & Legal Team | Approved by: Board of Directors

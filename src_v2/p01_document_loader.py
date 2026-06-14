@@ -1,10 +1,16 @@
 from langchain_community.document_loaders import TextLoader
+import os
 
-print("Loading Documents...")
 def load_documents():
 
-    loader = TextLoader(
-        "data/company_policy.txt"
-    )
+    documents = []
 
-    return loader.load()
+    for file in os.listdir("data"):
+
+        if file.endswith(".txt"):
+
+            loader = TextLoader(f"data/{file}")
+
+            documents.extend(loader.load())
+
+    return documents
