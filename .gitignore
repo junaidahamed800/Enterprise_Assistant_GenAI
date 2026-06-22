@@ -8,9 +8,6 @@ venv/
 # VS Code
 .vscode/
 
-# ChromaDB
-vectorstore/
-
 # OS Files
 .DS_Store
 Thumbs.db
