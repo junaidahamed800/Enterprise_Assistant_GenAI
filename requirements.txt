@@ -5,11 +5,12 @@ langchain-text-splitters
 langchain-chroma
 langchain-huggingface
 
-chromadb
+chromadb==0.4.24
 sentence-transformers
 
 pypdf
-python-docx
-docx2txt
-openpyxl
 python-dotenv
+google-generativeai
+
+protobuf==3.20.3
+opentelemetry-exporter-otlp-proto-grpc==1.20.0
