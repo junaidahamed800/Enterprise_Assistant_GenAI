@@ -15,7 +15,7 @@ def retrieve_context(query):
 
     results = vector_store.similarity_search(
         query,
-        k=2
+        k=4
     )
 
     return results
