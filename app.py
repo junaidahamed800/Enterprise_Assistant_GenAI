@@ -85,7 +85,7 @@ def index_file(filepath: str):
 
 # ── Sidebar: File Upload ───────────────────────────────────────
 with st.sidebar:
-    st.header("📁 Upload Documents")
+    st.header("Upload Files 🗐")
     st.write(
         "Upload any supported file and it will be indexed "
         "automatically into the knowledge base."
