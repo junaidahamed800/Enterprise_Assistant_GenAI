@@ -114,7 +114,7 @@ with st.sidebar:
 st.subheader("💬 Ask a Question")
 
 question = st.text_input(
-
+    label="",
     placeholder="e.g. How many days of annual leave do I get?",
 )
 
