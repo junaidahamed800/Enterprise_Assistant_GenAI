@@ -86,10 +86,6 @@ def index_file(filepath: str):
 # ── Sidebar: File Upload ───────────────────────────────────────
 with st.sidebar:
     st.header("Upload Files 🗐")
-    st.write(
-        "Upload any supported file and it will be indexed "
-        "automatically into the knowledge base."
-    )
 
     uploaded_files = st.file_uploader(
         label="Choose files",
@@ -113,20 +109,6 @@ with st.sidebar:
                         st.error(f"❌ Failed to index {uploaded_file.name}: {e}")
 
     st.divider()
-
-    # Show what's currently in the data folder
-    st.subheader("📂 Indexed Files")
-    if os.path.exists(DATA_DIR):
-        files = os.listdir(DATA_DIR)
-        if files:
-            for f in sorted(files):
-                ext = os.path.splitext(f)[1].upper().lstrip(".")
-                st.write(f"• `{f}` ({ext})")
-        else:
-            st.caption("No files yet. Upload some above!")
-    else:
-        st.caption("data/ folder not found.")
-
 
 # ── Main: Q&A Interface ────────────────────────────────────────
 st.subheader("💬 Ask a Question")
