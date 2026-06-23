@@ -23,12 +23,12 @@ SUPPORTED_TYPES = ["txt", "pdf", "docx", "xlsx"]
 
 # ── Page Config ────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Enterprise Assistant",
+    page_title="Enterprise AI Assistant",
     page_icon="🤖",
     layout="wide",
 )
 
-st.title("🤖 Enterprise Assistant")
+st.title("🤖 Enterprise AI Assistant")
 st.caption("Upload your documents and ask questions")
 
 # ── Helper: Save uploaded file to disk ─────────────────────────
