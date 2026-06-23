@@ -5,12 +5,10 @@ langchain-text-splitters
 langchain-chroma
 langchain-huggingface
 
-chromadb==0.5.23
-numpy==1.26.4
+chromadb
+numpy
 
 sentence-transformers
 pypdf
 python-dotenv
 google-generativeai
-
-protobuf==3.20.3
