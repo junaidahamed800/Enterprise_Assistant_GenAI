@@ -29,7 +29,7 @@ st.set_page_config(
 )
 
 st.title("🤖 Enterprise Assistant")
-st.caption("Upload documents and ask questions — powered by RAG")
+st.caption("Upload your documents and ask questions")
 
 # ── Helper: Save uploaded file to disk ─────────────────────────
 def save_uploaded_file(uploaded_file) -> str:
