@@ -1,17 +1,21 @@
-from langchain_chroma import Chroma
+import os
+from dotenv import load_dotenv
+from langchain_pinecone import PineconeVectorStore
 from langchain_huggingface import HuggingFaceEmbeddings
+
+load_dotenv()
 
 embedding_model = HuggingFaceEmbeddings(
     model_name="sentence-transformers/all-MiniLM-L6-v2"
 )
 
-vector_store = Chroma(
-    persist_directory="vectorstore",
-    embedding_function=embedding_model
-)
-
-
 def retrieve_context(query):
+
+    # Connect to existing Pinecone index
+    vector_store = PineconeVectorStore(
+        index_name="enterprise-assistant",
+        embedding=embedding_model
+    )
 
     results = vector_store.similarity_search(
         query,

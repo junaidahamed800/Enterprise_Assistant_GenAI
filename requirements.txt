@@ -12,3 +12,5 @@ sentence-transformers
 pypdf
 python-dotenv
 google-generativeai
+pinecone-client
+langchain-pinecone
