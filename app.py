@@ -3,13 +3,6 @@ import os
 from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
 
-# Import your existing pipeline modules
-# Adjust the import path to match your project structure:
-# If running from project root with src_v2/ folder:
-#   from src_v2.p01_document_loader import load_single_file
-#   from src_v2.p02_chunker import create_chunks
-#   etc.
-# If using flat structure (all files in root), use direct imports:
 from src_v2.p01_document_loader import load_single_file
 from src_v2.p02_chunker import create_chunks
 from src_v2.p04_retriever import retrieve_context
@@ -113,40 +106,32 @@ with st.sidebar:
 # ── Main: Q&A Interface ────────────────────────────────────────
 st.subheader("💬 Ask a Question")
 
-question = st.text_input(
-    label="",
-    placeholder="e.g. How many days of annual leave do I get?",
-)
+# WHY st.chat_input instead of st.text_input + button:
+# st.chat_input submits when user presses Enter — just like a chat app.
+# No button click needed. It also sticks to the bottom of the screen
+# and clears automatically after each submission.
+question = st.chat_input("e.g. How many days of annual leave do I get?")
 
-col1, col2 = st.columns([1, 5])
-with col1:
-    submit = st.button("🔍 Ask", use_container_width=True)
+if question:
+    with st.spinner("Searching knowledge base..."):
 
-if submit:
+        # Step 1: Retrieve relevant chunks
+        docs = retrieve_context(question)
 
-    if not question.strip():
-        st.warning("Please enter a question first.")
+        # Step 2: Build prompt with context
+        prompt = build_prompt(question, docs)
 
-    else:
-        with st.spinner("Searching knowledge base..."):
+        # Step 3: Generate answer via LLM
+        answer = generate_answer(prompt)
 
-            # Step 1: Retrieve relevant chunks
-            docs = retrieve_context(question)
+    # Display answer
+    st.subheader("📋 Answer")
+    st.write(answer)
 
-            # Step 2: Build prompt with context
-            prompt = build_prompt(question, docs)
-
-            # Step 3: Generate answer via LLM
-            answer = generate_answer(prompt)
-
-        # Display answer
-        st.subheader("📋 Answer")
-        st.write(answer)
-
-        # Show retrieved context (collapsed by default)
-        with st.expander("🔎 Retrieved Context (chunks used to answer)"):
-            for i, doc in enumerate(docs, 1):
-                source = doc.metadata.get("source", "Unknown")
-                st.markdown(f"**Chunk {i}** — `{os.path.basename(source)}`")
-                st.write(doc.page_content)
-                st.divider()
+    # Show retrieved context (collapsed by default)
+    with st.expander("🔎 Retrieved Context (chunks used to answer)"):
+        for i, doc in enumerate(docs, 1):
+            source = doc.metadata.get("source", "Unknown")
+            st.markdown(f"**Chunk {i}** — `{os.path.basename(source)}`")
+            st.write(doc.page_content)
+            st.divider()
