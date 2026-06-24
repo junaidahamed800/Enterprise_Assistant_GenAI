@@ -1,21 +1,18 @@
-def build_prompt(
-    query,
-    context
-):
+def build_prompt(query, context):
+    prompt = f"""You are a helpful enterprise assistant answering questions based strictly on internal company policy documents.
 
-    prompt = f"""
-Use only the provided context.
+INSTRUCTIONS:
+- Answer using ONLY the provided context below.
+- Be concise and direct.
+- If the context contains partial information, share what's available and note what's missing.
+- If the answer is not in the context at all, respond with: "This information is not covered in the available policy documents."
+- Do not make up or infer information beyond what is explicitly stated.
 
-If the answer is not found in the context,
-say "Information not available."
-
-Context:
+CONTEXT:
 {context}
 
-Question:
+QUESTION:
 {query}
 
-Answer:
-"""
-
+ANSWER:"""
     return prompt
